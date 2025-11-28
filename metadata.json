@@ -1,0 +1,7 @@
+{
+  "name": "ColectorPro",
+  "description": "App para cadastro de carrinhos de hot wheels com edição de imagem IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
